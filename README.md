@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heitor Gushiken Junior</h1>
 <h3 align="center">A curious electrical engineer student and game dev</h3>
 
-- 🌱 I’m currently learning **Fullstack, React, NodeJS, Angular**
+- 🌱 I’m currently learning **Fullstack, React, NodeJS, Angular, C#**
 
 - 📫 How to reach me **hgushi@usp.br**
 
