@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **hgushi@usp.br**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WbjlUAaRzkhshiwXkRqC4GyCA6yVCSIK/view?usp=sharing](https://drive.google.com/file/d/1WbjlUAaRzkhshiwXkRqC4GyCA6yVCSIK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mC3sSH3VI3glXrEltPAFGGH6LWYQLjVo/view?usp=sharing](https://drive.google.com/file/d/1mC3sSH3VI3glXrEltPAFGGH6LWYQLjVo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
