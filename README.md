@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heitor Gushiken Junior</h1>
-<h3 align="center">A curious electrical engineer student and game dev</h3>
+<h3 align="center">A curious electrical engineer and game dev</h3>
 
 - 📫 How to reach me **hgushi@usp.br**
 
